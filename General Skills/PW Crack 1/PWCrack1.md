@@ -30,7 +30,9 @@ def level_1_pw_check():
     print("That password is incorrect")
 ```
 Disini dapat dilihat bahwa password yang benar adalah `8713`
-4. Run file level1,py dan masukkan password maka akan muncul flag yang dicari.
+
+
+3. Run file level1,py dan masukkan password maka akan muncul flag yang dicari.
 
 ## Flag
 
